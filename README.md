@@ -1,8 +1,8 @@
+# DevTide — Week 4 PLP MERN Stack Assignment
 
-# DevTide.
+DevTide is a full-stack **MERN** (MongoDB, Express.js, React.js, Vite, Node.js) blogging platform built by **Bravin Musali**.  
+It empowers developers, tech enthusiasts, and creators to write, publish, and share insights on **programming, AI, productivity, and emerging tech trends**.
 
-DevTide is a full-stack MERN (MongoDB, Express.js, React.js, vite, Node.js) blogging platform built by Bravin Musali.
-It empowers developers, tech enthusiasts, and creators to write, publish, and share insights on programming, AI, productivity, and emerging tech trends.
 
 ## Features
 
